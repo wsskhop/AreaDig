@@ -5,3 +5,7 @@ api-version: '1.16'
 authors: [EmptySet]
 description: 区域挖掘
 website: marvelpixel.cn
+commands:
+  mplad:
+    description: "z"
+    permission: marvelpixel.main
