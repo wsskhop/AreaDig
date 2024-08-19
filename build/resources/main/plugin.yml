@@ -9,3 +9,5 @@ commands:
   mplad:
     description: "z"
     permission: marvelpixel.main
+depend:
+  - MarvelPixel
